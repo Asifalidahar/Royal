@@ -42,8 +42,7 @@ logo = """
    THE ANONYMOUS TRICKER 
    THE LEGEND LARKA
    THE GAME CHANGER BOY
-   Davil hackers
-   ℒℴνℯ ▄︻̷̿┻̿═━一
+   Royal King ▄︻̷̿┻̿═━一
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92Davil
 \033[1;96mYouTube \033[1;93m: \033[1;92mRoyal King Hackers
